@@ -45,7 +45,7 @@ I’m a **Full Stack Developer** working across both **Java Full Stack** and **J
 I enjoy building modern, scalable applications and continuously expanding my skills across backend, frontend, and cloud technologies.
 
 - 🎓 B.E. in Computer Science (AI/ML)  
-- 💼 Currently learning **Junior java Full Stack Development** at ***Tata Strive***  
+- 💼 Completed training in **Junior Java Full Stack Development** from **Tata Strive**
 - 🌱 Expanding knowledge in **React, Spring Boot, REST APIs, MySQL, DevOps fundamentals**  
 - 🎯 Always exploring new tools, technologies, and best practices  
 - 🤝 Open to collaboration on full stack and backend-related projects  
